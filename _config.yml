@@ -20,9 +20,9 @@ text_skin: ocean # "default" (default), "dark", "forest", "ocean", "chocolate", 
 highlight_theme: tomorrow-night-blue # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : # does not include hostname
-title   : 一只小肝同学
+title   : MicroGan
 description: > # this means to ignore newlines until "Language & timezone"
-  G Dev Hub 工作室长的官方网站
+  MicroGan的官方网站
 
 
 ## => Language and Timezone
@@ -35,11 +35,11 @@ timezone: Asia/Shanghai # see https://en.wikipedia.org/wiki/List_of_tz_database_
 ##############################
 author:
   type      : # "person" (default), "organization"
-  name      : 一只野生的小肝同学
+  name      : MicroGan
   url       : 
   avatar    : # path or url of avatar image (square)
-  bio       : G Dev Hub 工作室室长， MikOS 开发者之一, G-DOS(-UI)开发者
-  email     : 2860978530@qq.com
+  bio       : G Dev Hub 工作室室长
+  email     : Tonyyyds666666@outlook.com
   facebook  : # "user_name" the last part of your profile url, e.g. https://www.facebook.com/user_name
   twitter   : # "user_name" the last part of your profile url, e.g. https://twitter.com/user_name
   weibo     : # "user_id"   the last part of your profile url, e.g. https://www.weibo.com/user_id/profile?...
