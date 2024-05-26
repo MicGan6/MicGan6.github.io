@@ -3,7 +3,7 @@ layout: home
 # articles:
 #   excerpt_type: html
 ---
-# 一只野生的小肝同学
+# MicroGan
 本网站于2023.8.13起正式运营！
 
 ![image](/G工作室图片.jpg) 
