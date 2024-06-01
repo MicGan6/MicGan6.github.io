@@ -27,12 +27,12 @@ key: page-about
 show_title: false
 ---
 # 关于
-## 关于MicroGan
+## 关于MicGan
 ### 网络设定1   
-MicroGan是一个
+MicGan是一个
 ~~名副其实的~~
 肝帝，经常肝出逝来  
-[MicroGan的B站主页](https://space.bilibili.com/1028045655)  
+[MicGan的B站主页](https://space.bilibili.com/1028045655)  
 给个三连＋关注吧！求求啦！  
 ### 网络设定2
 - 一个~~重度~~二次元爱好者 ~~(整天希望可以去二次元)~~
