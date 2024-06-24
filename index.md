@@ -6,7 +6,7 @@ layout: home
 # MicGan
 本网站于2023.8.13起正式运营！
 
-![image](/G工作室图片.jpg) 
+![image](/AKS图标.jpg) 
 {:.rounded.shadow}  
 
 感谢开发过程中各位的支持！
